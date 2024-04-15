@@ -11,7 +11,7 @@
 - <b>Full Stack Web App (React, NodeJS, Express, SASS and Bootstrap )</b>
   - [AniHelp - Reporting Web App for injured animals](https://github.com/eemraydin)
 - <b>Basic HTML-CSS Magazine website</b>
-  - [Fashion Magazine HTML Website](https://github.com/eemraydin)
+  - [Fashion Magazine HTML Website](https://github.com/eemraydin/HTMLMagazineProject)
 - <b>First HTML website</b>
   - [Resume website](https://github.com/eemraydin/FirstProject)
 
