@@ -13,7 +13,7 @@
 - <b>Basic HTML-CSS Magazine website</b>
   - [Fashion Magazine HTML Website](https://github.com/eemraydin)
 - <b>First HTML website</b>
-  - [Resume website](https://github.com/eemraydin)
+  - [Resume website](https://github.com/eemraydin/FirstProject)
 
 <h2>💼 Courses and Certificates </h2>
 
