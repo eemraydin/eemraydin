@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on my portfolio. I am learning new frameworks and languages
 - 🌱 I’m currently learning React Native and Swift
-- 👯 I’m looking to work in Vancouver
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
