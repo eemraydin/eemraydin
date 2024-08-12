@@ -19,11 +19,11 @@
 
 <h2>💼 Some Certificates </h2>
 
-Certificates:
 - [Developing Back-End Apps with Node.js and Express by IBM ](https://www.coursera.org/account/accomplishments/verify/4UQ43MXDJC8H)
 - [Advanced React by META](https://www.coursera.org/account/accomplishments/verify/EWQC4CYP3KWA)
 - [React Basics by META](https://www.coursera.org/account/accomplishments/verify/LY8A9ZPGFL62)
 - [NoSQL by LinkedIn](https://www.linkedin.com/learning/certificates/603a3a9eb75da3d07c5fbd44fe7420b917c44ed3d317297aee1bbd325098aca1?u=57075641)
+
 
 
 <h2> 🤳 Connect with me:</h2>
