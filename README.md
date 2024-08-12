@@ -1,10 +1,8 @@
 <h1>Hi, I'm Emre! <br/></h1> <h2><a href="https://www.linkedin.com/in/eemraydin/">Full Stack Developer</a></h2>
 
-- 🔭 I’m currently working on my portfolio. I am learning new frameworks and languages
-- 🌱 I’m currently working on creating native apps like Swift and I am practicing on OO languages.
+- 🌱 I’m currently working on native apps like Swift and I am practicing on OO languages.
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
 
 
 - <b> GreenCircle - React Native/Cross Platform App </b>
@@ -17,8 +15,9 @@
   - [Fashion Magazine HTML Website](https://github.com/eemraydin/HTMLMagazineProject)
 - <b>First HTML website</b>
   - [Resume website](https://github.com/eemraydin/FirstProject)
+ 
 
-<h2>💼 Courses and Certificates </h2>
+<h2>💼 Some Certificates </h2>
 
 Certificates:
 - [Developing Back-End Apps with Node.js and Express by IBM ](https://www.coursera.org/account/accomplishments/verify/4UQ43MXDJC8H)
@@ -26,20 +25,6 @@ Certificates:
 - [React Basics by META](https://www.coursera.org/account/accomplishments/verify/LY8A9ZPGFL62)
 - [NoSQL by LinkedIn](https://www.linkedin.com/learning/certificates/603a3a9eb75da3d07c5fbd44fe7420b917c44ed3d317297aee1bbd325098aca1?u=57075641)
 
-Courses:
-- HTML-CSS
-- Advance Web Programing(JS)
-- Full Stack Web Development(NodeJs-Express-React)
-- Native Android App Development (React Native)
-- Native iOS App Development (Swift)
-- Security and Cloud and Server Administration
-- Advanced Topics for Web and Mobile Developers
-- Conten Management Systems(Wordpress-PHP)
-- Object Oriented Desgin and Programing(JAVA)
-- Database Technologies
-- UI/IX Design
-- Graphic Techniques
-- Graphic Design
 
 <h2> 🤳 Connect with me:</h2>
 
