@@ -1,10 +1,14 @@
-<h1>Hi, I'm Emre! <br/></h1> <h2><a href="https://github.com/eemraydin">Full Stack Developer</a>, <a href="https://www.linkedin.com/in/eemraydin/">Web and Mobile Application Development Student</a></h2>
+<h1>Hi, I'm Emre! <br/></h1> <h2><a href="https://www.linkedin.com/in/eemraydin/">Full Stack Developer</a></h2>
 
 - 🔭 I’m currently working on my portfolio. I am learning new frameworks and languages
-- 🌱 I’m currently learning React Native and Swift
+- 🌱 I’m currently working on creating native apps like Swift and I am practicing on OO languages.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+
+
+- <b> GreenCircle - React Native/Cross Platform App </b>
+  - [GreenCircle - Join cleanups, count waste and see your impact instantly with GreenCircle!](https://github.com/eemraydin/GreenCircle)
 - <b>Full Stack Web App - Toolit (MERN - MongoDB, Express, React, Node.js and MaterialUI) </b>
   - [Toolit - Tool Management Web App for Robotics projects and schools](https://github.com/eemraydin/Toolit-ToolManagement)
 - <b>Full Stack Web App (JavaScript, NodeJS, SASS and Bootstrap )</b>
