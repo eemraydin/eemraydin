@@ -6,7 +6,7 @@
 
 
 - <b> Ecommerce Store - NextJS with Wix </b>
-  - [Ecommerce Store - User-friendly e-commerce platform that allows businesses to showcase and sell their products online]([https://github.com/eemraydin/e-commerce-NextJS])
+  - [Ecommerce Store - User-friendly e-commerce platform that allows businesses to showcase and sell their products online](https://github.com/eemraydin/e-commerce-NextJS)
 - <b> GreenCircle - React Native/Cross Platform App </b>
   - [GreenCircle - Join cleanups, count waste and see your impact instantly with GreenCircle!](https://github.com/eemraydin/GreenCircle)
 - <b>Full Stack Web App - Toolit (MERN - MongoDB, Express, React, Node.js and MaterialUI) </b>
